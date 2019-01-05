@@ -18,8 +18,8 @@ Bulat Positif
         else
             cout<<"bukan bilangan prima \n";
         std::cout<<" \n";
-        std::cout<<"nama : muhammad yusuf alfaqih \n";
-        std::cout<<"nim  : 311810239";
+        std::cout<<"nama : muhammad safii \n";
+        std::cout<<"nim  : 311810210";
         return 0;
 
     }
